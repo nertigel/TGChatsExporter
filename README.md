@@ -1,7 +1,3 @@
-# TGChatsExporter
-A pyrogram script to export all private chats that are available to the client for backup purposes.
-
-
 # TGChatsExporter for Telegram
 This is a telegram user-bot based off the [Pyrogram](https://github.com/pyrogram/pyrogram) library in Python3. 
 

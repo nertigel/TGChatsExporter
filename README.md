@@ -13,7 +13,7 @@ You can run this bot on your own, install the required lib by running this comma
 pip install pyrogram
 ```
 
-# Configuration (config.json)
+# Configuration
 
 In the `main.py` file you will find `api_id` and `api_hash` variables at lines `10-11`, get your [API credentials from Telegram's official website](https://my.telegram.org/auth).
 
